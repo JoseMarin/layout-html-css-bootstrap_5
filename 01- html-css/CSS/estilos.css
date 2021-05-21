@@ -1,0 +1,74 @@
+* {
+	font-family: arial;
+}
+
+div div {
+	width: 50px;
+	height: 50px;
+	margin-right: 5px;
+	border: solid;
+}
+
+#div1 {
+	background-color: red;
+	float: left;
+}
+#div2 {
+	background-color: blue;
+	float: left;
+}
+
+#div3 {
+	background-color: purple;
+	float: left;
+}
+#div4 {
+	background-color: grey;
+	float: left;
+}
+#div5 {
+	background-color: orange;
+	float: left;
+}
+#div6 {
+	background-color: pink;
+	float: left;
+}
+#div7 {
+	background-color: brown;
+	float: left;
+}
+#div8 {
+	background-color: green;
+	float: left;
+}
+.limpiador {
+	clear: both;
+	border: none;
+	height: 0;
+}
+#div9 {
+	background-color: yellow;
+	margin: 20px 0;
+	width: 100%;
+}
+#div10, #div11, #div12 {
+	width: 200px;
+	height: 50px;
+	margin-right: 5px;
+	float: right;
+}
+#div10 {
+	background-color: red;
+}
+#div11 {
+	background-color: blue;
+}
+#div12 {
+	background-color: yellow;
+}
+#div13 {
+	background-color: #DEB887;
+	clear: both;
+	width: 100%;
+}

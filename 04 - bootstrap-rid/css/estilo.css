@@ -1,0 +1,25 @@
+
+body{
+    background-color:yellowgreen;
+}
+
+.box-row{
+    background-color: blueviolet;
+    height: 10vh;
+}
+
+.box-row-mid{
+    background-color: orange;
+    height: 60vh;
+}
+
+.box-row-base{
+    background-color: yellow;
+    height: 20vh;
+}
+
+.box-col{
+    background-color: red;
+    text-align: center;
+}
+

@@ -1,0 +1,28 @@
+.box1{
+    grid-column: 1 / 5;
+}
+
+.box2{
+    grid-row: 2 / 4;
+}
+
+.box3{
+    grid-row: 2 / 4;
+    grid-column: 2 / 5;
+}
+
+
+.box{
+    background-color: blueviolet;
+    padding: 10px;
+    color: white;
+    text-align: center;
+}
+
+.container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 2fr 3fr 1fr;
+    grid-gap: 10px;
+}

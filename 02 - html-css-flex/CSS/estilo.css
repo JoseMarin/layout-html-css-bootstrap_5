@@ -1,0 +1,39 @@
+div {
+    background: yellow;
+    /*height: 150px;*/
+  /*IMPORTANTE*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div1 {
+	width: 500px;
+	height: 500px;
+	margin-right: 5px;
+	border: solid;
+    background-color: red;
+    /*IMPORTANTE CENTRADO*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div2 {
+    width: 500px;
+	height: 120px;
+	background-color: blue;
+	/*IMPORTANTE CENTRADO*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 5px;
+    text-align: left;
+  }
