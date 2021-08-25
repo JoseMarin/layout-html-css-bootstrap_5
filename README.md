@@ -7,7 +7,7 @@ Este repositorio corresponde a los ejemplos de la parte de html, css y bootstrap
 ```
 - 01 - Ejemplo de layout con html y css nativo.
 - 02 - Layout Flex.
-- 03 - Layout tipoo Grid.
+- 03 - Layout tipo Grid.
 - 04 - Layout responsive con Bootstrap 5.
 ```
 
@@ -19,7 +19,7 @@ Este repositorio corresponde a los ejemplos de la parte de html, css y bootstrap
 #### 02 - Layout Flex
 ![image](https://user-images.githubusercontent.com/16636086/119155107-1dcda380-ba53-11eb-88bc-ce0e5efcea2b.png)
 
-#### 03 - Layout tipoo Grid
+#### 03 - Layout tipo Grid
 ![image](https://user-images.githubusercontent.com/16636086/119155233-3fc72600-ba53-11eb-869f-2a957410364a.png)
 
 #### 04 - Layout responsive con Bootstrap 5
