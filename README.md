@@ -1,4 +1,4 @@
-# Ejemplo de Layout trabajad en clase
+# Ejemplo de Layout trabajado en clase
 
 Este repositorio corresponde a los ejemplos de la parte de html, css y bootstrap trabajado durante las dos primeras semanas de clase.
 
